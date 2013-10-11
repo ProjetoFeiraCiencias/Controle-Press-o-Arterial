@@ -1,0 +1,57 @@
+c:\users\ifsp\documents\visual studio 2010\Projects\SistemaControlePressão\SistemaControlePressão\bin\Debug\SistemaControlePressão.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\SistemaControlePressão\SistemaControlePressão\bin\Debug\SistemaControlePressão.pdb
+c:\users\ifsp\documents\visual studio 2010\Projects\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ifsp\documents\visual studio 2010\Projects\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.Form1.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.Properties.Resources.resources
+c:\users\ifsp\documents\visual studio 2010\Projects\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ifsp\documents\visual studio 2010\Projects\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.exe
+c:\users\ifsp\documents\visual studio 2010\Projects\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.pdb
+E:\3_MODULO\PJS\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.exe
+E:\3_MODULO\PJS\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.pdb
+E:\3_MODULO\PJS\SistemaControlePressão\SistemaControlePressão\bin\Debug\SistemaControlePressão.exe
+E:\3_MODULO\PJS\SistemaControlePressão\SistemaControlePressão\bin\Debug\SistemaControlePressão.pdb
+E:\3_MODULO\PJS\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\3_MODULO\PJS\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.Form1.resources
+E:\3_MODULO\PJS\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.FormInicio.resources
+E:\3_MODULO\PJS\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.Properties.Resources.resources
+E:\3_MODULO\PJS\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\3_MODULO\PJS\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.exe
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.pdb
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.Form1.resources
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.Properties.Resources.resources
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\bin\Debug\SistemaControlePressão.exe
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\bin\Debug\SistemaControlePressão.pdb
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\bin\Debug\SistemaControlePressão.exe.config
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.relatorios.resources
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.alterar.resources
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.excluir.resources
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\bin\Debug\atualiza.dll
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\bin\Debug\atualiza.pdb
+E:\SistemaControlePressão\SistemaControlePressão\bin\Debug\SistemaControlePressão.exe.config
+E:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.exe
+H:\SistemaControlePressão\SistemaControlePressão\bin\Debug\SistemaControlePressão.exe.config
+H:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.exe
+E:\SistemaControlePressão\SistemaControlePressão\bin\Debug\SistemaControlePressão.exe
+E:\SistemaControlePressão\SistemaControlePressão\bin\Debug\SistemaControlePressão.pdb
+E:\SistemaControlePressão\SistemaControlePressão\bin\Debug\atualiza.dll
+E:\SistemaControlePressão\SistemaControlePressão\bin\Debug\atualiza.pdb
+E:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.AferirPressão.resources
+E:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.alterar.resources
+E:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.CadPaciente.resources
+E:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.excluir.resources
+E:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.Form1.resources
+E:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.Pesquisar.resources
+E:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.Properties.Resources.resources
+E:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.relatorios.resources
+E:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.pdb
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.AferirPressão.resources
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.CadPaciente.resources
+C:\Users\Welliton\Desktop\SistemaControlePressão\SistemaControlePressão\obj\x86\Debug\SistemaControlePressão.Pesquisar.resources

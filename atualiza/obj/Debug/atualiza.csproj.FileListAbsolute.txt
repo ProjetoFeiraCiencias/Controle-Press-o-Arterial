@@ -1,0 +1,10 @@
+C:\Users\Welliton\Desktop\SistemaControlePressão\atualiza\bin\Debug\atualiza.dll
+C:\Users\Welliton\Desktop\SistemaControlePressão\atualiza\bin\Debug\atualiza.pdb
+C:\Users\Welliton\Desktop\SistemaControlePressão\atualiza\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Welliton\Desktop\SistemaControlePressão\atualiza\obj\Debug\atualiza.dll
+C:\Users\Welliton\Desktop\SistemaControlePressão\atualiza\obj\Debug\atualiza.pdb
+E:\SistemaControlePressão\atualiza\bin\Debug\atualiza.dll
+E:\SistemaControlePressão\atualiza\bin\Debug\atualiza.pdb
+E:\SistemaControlePressão\atualiza\obj\Debug\ResolveAssemblyReference.cache
+E:\SistemaControlePressão\atualiza\obj\Debug\atualiza.dll
+E:\SistemaControlePressão\atualiza\obj\Debug\atualiza.pdb

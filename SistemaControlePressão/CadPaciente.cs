@@ -175,5 +175,10 @@ namespace SistemaControlePressão
 
             MessageBox.Show("Cadastrado com Sucesso");
         }
+
+        private void CadPaciente_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }

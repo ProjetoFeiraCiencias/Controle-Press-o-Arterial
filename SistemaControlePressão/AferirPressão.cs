@@ -20,5 +20,17 @@ namespace SistemaControlePressão
         {
 
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            CadPaciente NCadPaciente = new CadPaciente();
+            NCadPaciente.Show();
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+
+           
+        }
     }
 }
